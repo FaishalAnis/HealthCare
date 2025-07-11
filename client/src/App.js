@@ -19,7 +19,6 @@ import TrackMed from "./components/Services/TrackMed/TrackMed";
 import ServiceDetails from "./components/Services/ServiceDetails/ServiceDetails";
 import PrivetRoute from "./PrivetRoute/PrivetRoute";
 
-// custom style for this application
 export const myTheme = createTheme({
   palette: {
     primary: {
